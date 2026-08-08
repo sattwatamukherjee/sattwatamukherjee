@@ -19,18 +19,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F4C430&center=true&vCenter=true&width=800&lines=Building+with+AI%2C+Code+%26+Automation;Exploring+Intelligent+Systems;Creating+Modern+Web+Experiences;Turning+Ideas+into+Practical+Products;Imagine+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Evolve" alt="Typing SVG" />
 
-<br>
-
-<a href="https://github.com/sattwatamukherjee">
-  <img src="https://img.shields.io/github/followers/sattwatamukherjee?label=Followers&style=for-the-badge&color=F4C430&labelColor=181818&logo=github&logoColor=F4C430" />
-</a>
-
-<a href="https://github.com/sattwatamukherjee?tab=repositories">
-  <img src="https://img.shields.io/github/stars/sattwatamukherjee?label=Stars&style=for-the-badge&color=F4C430&labelColor=181818&logo=github&logoColor=F4C430" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=sattwatamukherjee&style=for-the-badge&color=F4C430&labelColor=181818&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
@@ -44,13 +32,13 @@
 
 I'm **Sattwata Mukherjee**, a Computer Science professional passionate about turning emerging technologies into **intelligent products, seamless experiences, and practical solutions**.
 
-I'm particularly interested in the intersection of **AI, automation, software development and design** — creating things that are not only technically useful but also intuitive and engaging.
+I'm particularly interested in the intersection of **AI, automation, software development and design** — building things that are not only technically useful but also intuitive and engaging.
 
 ### 🚀 Currently Exploring
 
 - 🤖 **AI & Intelligent Systems** — Generative AI, Machine Learning & AI Agents
 - ⚡ **AI Automation** — Intelligent workflows, agents & process automation
-- 🌐 **Web Development** — Modern, responsive & interactive web experiences
+- 🌐 **Web Development** — Modern, responsive & interactive experiences
 - 🎨 **UI/UX & Design** — Clean interfaces, user experience & visual design
 - 🪙 **Web3 & Blockchain** — Decentralized technologies & emerging applications
 
@@ -66,35 +54,12 @@ I'm particularly interested in the intersection of **AI, automation, software de
 
 <br><br>
 
-<table>
-<tr>
-
-<td align="center">
-
 <img src="https://img.shields.io/badge/AI%20%26%20Automation-F4C430?style=for-the-badge&labelColor=181818&logoColor=111111" />
-
-</td>
-
-<td align="center">
-
 <img src="https://img.shields.io/badge/Web%20Development-F4C430?style=for-the-badge&labelColor=181818&logoColor=111111" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
 
 <br>
 
 <img src="https://img.shields.io/badge/WEB3-F4C430?style=for-the-badge&labelColor=181818&logoColor=111111" />
-
-</td>
-
-</tr>
-</table>
 
 </td>
 
@@ -185,38 +150,34 @@ I'm particularly interested in the intersection of **AI, automation, software de
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sattwata-mukherjee-03504b263/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+<img src="https://img.shields.io/badge/LinkedIn-F4C430?style=for-the-badge&logo=linkedin&logoColor=111111&labelColor=181818" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linkedin/F4C430" width="22" style="vertical-align:middle;margin:0 8px;" />
 
 <a href="https://x.com/32Xii81948">
-  <img src="https://skillicons.dev/icons?i=twitter" width="45" />
+<img src="https://img.shields.io/badge/X-F4C430?style=for-the-badge&logo=x&logoColor=111111&labelColor=181818" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/x/F4C430" width="22" style="vertical-align:middle;margin:0 8px;" />
 
 <a href="https://instagram.com/_sergio_sats_">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+<img src="https://img.shields.io/badge/Instagram-F4C430?style=for-the-badge&logo=instagram&logoColor=111111&labelColor=181818" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/instagram/F4C430" width="22" style="vertical-align:middle;margin:0 8px;" />
 
 <a href="[YOUR_TIKTOK_URL]">
-  <img src="https://skillicons.dev/icons?i=tiktok" width="45" />
+<img src="https://img.shields.io/badge/TikTok-F4C430?style=for-the-badge&logo=tiktok&logoColor=111111&labelColor=181818" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tiktok/F4C430" width="22" style="vertical-align:middle;margin:0 8px;" />
 
 <a href="[YOUR_YOUTUBE_URL]">
-  <img src="https://skillicons.dev/icons?i=youtube" width="45" />
+<img src="https://img.shields.io/badge/YouTube-F4C430?style=for-the-badge&logo=youtube&logoColor=111111&labelColor=181818" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/youtube/F4C430" width="22" style="vertical-align:middle;margin:0 8px;" />
 
 <a href="mailto:sattwatamukherjee04@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+<img src="https://img.shields.io/badge/Email-F4C430?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=181818" />
 </a>
+<img src="https://cdn.simpleicons.org/gmail/F4C430" width="22" style="vertical-align:middle;margin:0 8px;" />
 
 </div>
 
