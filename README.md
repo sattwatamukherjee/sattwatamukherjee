@@ -72,10 +72,6 @@ I'm particularly interested in the intersection of **AI, automation, software de
 
 <br>
 
-<img src="https://img.shields.io/badge/UI%2FUX-F4C430?style=for-the-badge&labelColor=181818&logoColor=111111" />
-
-<br>
-
 <img src="https://img.shields.io/badge/WEB3-F4C430?style=for-the-badge&labelColor=181818&logoColor=111111" />
 
 </td>
