@@ -1,18 +1,210 @@
-# 💫 About Me:
-## 👋 Hey, I'm Sattwata.<br><br>I'm **Sattwata Mukherjee**, passionate about turning emerging technologies into **intelligent products, seamless experiences, and practical solutions**.<br><br>✦ Areas I'm Exploring<br><br>🤖 **AI & Intelligent Systems** — Generative AI, Machine Learning & AI agents<br>⚡ **AI Automation** — Intelligent workflows, agents & process automation<br>🌐 **Web Development** — Modern, responsive & interactive web experiences<br>🎨 **UI/UX & Design** — Clean interfaces, user experience & visual design<br>🪙 **Web3 & Blockchain** — Decentralized technologies & emerging applications<br><br>✦ The Goal : **Imagine → Design → Build → Automate → Evolve**<br>
+<!-- ========================================================= -->
+<!--                  SATTWATA MUKHERJEE                       -->
+<!--              GitHub Profile README                        -->
+<!-- ========================================================= -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F4C430,100:111111&height=230&section=header&text=Sattwata%20Mukherjee&fontSize=42&fontColor=F4C430&animation=fadeIn&fontAlignY=38">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F4C430,100:FFF8D6&height=230&section=header&text=Sattwata%20Mukherjee&fontSize=42&fontColor=111111&animation=fadeIn&fontAlignY=38">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4C430&height=230&section=header&text=Sattwata%20Mukherjee&fontSize=42&fontColor=111111&animation=fadeIn&fontAlignY=38" />
+</picture>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/sattwatmukherj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sergio_sats_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sattwata-mukherjee-03504b263/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@32Xii81948) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sattwatamukherjee04@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sattwatamukherjee&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sattwatamukherjee&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sattwatamukherjee&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 👋 Hey there, I'm Sattwata
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### `Computer Science Engineer` • `AI Enthusiast` • `Builder` • `Designer`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F4C430&center=true&vCenter=true&width=800&lines=Building+with+AI%2C+Code+%26+Automation;Exploring+Intelligent+Systems;Creating+Modern+Web+Experiences;Turning+Ideas+into+Practical+Products;Imagine+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Evolve" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/sattwatamukherjee">
+  <img src="https://img.shields.io/github/followers/sattwatamukherjee?label=Followers&style=for-the-badge&color=F4C430&labelColor=181818&logo=github&logoColor=F4C430" />
+</a>
+<a href="https://github.com/sattwatamukherjee?tab=repositories">
+  <img src="https://img.shields.io/github/stars/sattwatamukherjee?label=Stars&style=for-the-badge&color=F4C430&labelColor=181818&logo=github&logoColor=F4C430" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=sattwatamukherjee&style=for-the-badge&color=F4C430&labelColor=181818&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## ✦ About Me
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+I'm **Sattwata Mukherjee**, a Computer Science professional passionate about turning emerging technologies into **intelligent products, seamless experiences, and practical solutions**.
+
+I'm particularly interested in the intersection of **AI, automation, software development and design** — building things that are not only technically useful but also intuitive and engaging.
+
+### 🚀 Currently Exploring
+
+- 🤖 **AI & Intelligent Systems** — Generative AI, Machine Learning & AI Agents
+- ⚡ **AI Automation** — Intelligent workflows, agents & process automation
+- 🌐 **Web Development** — Modern, responsive & interactive experiences
+- 🎨 **UI/UX & Design** — Clean interfaces, user experience & visual design
+- 🪙 **Web3 & Blockchain** — Decentralized technologies & emerging applications
+
+### ✦ My Approach
+
+**Imagine → Design → Build → Automate → Evolve**
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://github.com/sattwatamukherjee.png" width="220" alt="Sattwata Mukherjee"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Automation-F4C430?style=for-the-badge&labelColor=181818&logoColor=111111" />
+
+<img src="https://img.shields.io/badge/Web%20Development-F4C430?style=for-the-badge&labelColor=181818&logoColor=111111" />
+
+<img src="https://img.shields.io/badge/UI%2FUX-F4C430?style=for-the-badge&labelColor=181818&logoColor=111111" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Languages & Core
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css&theme=dark" />
+</a>
+
+### 🤖 AI / ML & Data
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-F4C430?style=for-the-badge&logo=pandas&logoColor=111111&labelColor=181818" />
+<img src="https://img.shields.io/badge/NumPy-F4C430?style=for-the-badge&logo=numpy&logoColor=111111&labelColor=181818" />
+<img src="https://img.shields.io/badge/Matplotlib-F4C430?style=for-the-badge&logo=matplotlib&logoColor=111111&labelColor=181818" />
+
+### 🌐 Web & Development
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,jquery,vercel,netlify&theme=dark" />
+</a>
+
+### 🗄️ Databases
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle&theme=dark" />
+</a>
+
+### 🛠️ Tools & Design
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,adobe&theme=dark" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F4C430?style=for-the-badge&logo=powerbi&logoColor=111111&labelColor=181818" />
+<img src="https://img.shields.io/badge/Tableau-F4C430?style=for-the-badge&logo=tableau&logoColor=111111&labelColor=181818" />
+<img src="https://img.shields.io/badge/Framer-F4C430?style=for-the-badge&logo=framer&logoColor=111111&labelColor=181818" />
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-F4C430?style=for-the-badge&logo=adobepremierepro&logoColor=111111&labelColor=181818" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sattwatamukherjee&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&title_color=F4C430&icon_color=F4C430&text_color=FFFFFF&bg_color=181818" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sattwatamukherjee&hide_border=true&background=181818&ring=F4C430&fire=F4C430&currStreakLabel=F4C430&sideLabels=F4C430&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattwatamukherjee&layout=compact&hide_border=true&title_color=F4C430&text_color=FFFFFF&bg_color=181818" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sattwatamukherjee&bg_color=181818&color=F4C430&line=F4C430&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Contribution Snake generated by GitHub Action -->
+<!-- See: https://github.com/Platane/snk -->
+
+<img src="https://raw.githubusercontent.com/sattwatamukherjee/sattwatamukherjee/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+> **GitHub Action:** Configure the `Platane/snk` workflow in `.github/workflows/snake.yml` to automatically generate and update the contribution snake.
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sattwata-mukherjee-03504b263/">
+<img src="https://img.shields.io/badge/LinkedIn-F4C430?style=for-the-badge&logo=linkedin&logoColor=111111&labelColor=181818" />
+</a>
+
+<a href="https://x.com/32Xii81948">
+<img src="https://img.shields.io/badge/X-F4C430?style=for-the-badge&logo=x&logoColor=111111&labelColor=181818" />
+</a>
+
+<a href="https://instagram.com/_sergio_sats_">
+<img src="https://img.shields.io/badge/Instagram-F4C430?style=for-the-badge&logo=instagram&logoColor=111111&labelColor=181818" />
+</a>
+
+<a href="mailto:sattwatamukherjee04@gmail.com">
+<img src="https://img.shields.io/badge/Email-F4C430?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=181818" />
+</a>
+
+<a href="[YOUR_TIKTOK_URL]">
+<img src="https://img.shields.io/badge/TikTok-F4C430?style=for-the-badge&logo=tiktok&logoColor=111111&labelColor=181818" />
+</a>
+
+<a href="[YOUR_YOUTUBE_URL]">
+<img src="https://img.shields.io/badge/YouTube-F4C430?style=for-the-badge&logo=youtube&logoColor=111111&labelColor=181818" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✦ Building ideas that matter. One commit at a time. ✦
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF3B0,100:F4C430&height=130&section=footer&animation=fadeIn" width="100%" />
+
+</div>
