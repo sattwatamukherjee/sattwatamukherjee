@@ -1,5 +1,5 @@
 # 💫 About Me:
-## ✦ About Me<br><br>👋 Hey, I'm Sattwata.<br><br>A Computer Science professional fascinated by what happens when **AI, automation, code, and design come together**.<br><br>I enjoy building things that are more than just functional — products that are **intelligent, intuitive, visually polished, and genuinely useful**.<br><br><br><br><br>🧠 What I'm Into<br><br>🤖 **AI & Intelligent Systems**<br>Exploring Generative AI, Machine Learning, AI agents, and practical AI-powered applications.<br><br>⚡ **Automation & AI Workflows**<br>Creating intelligent workflows that automate repetitive processes, connect tools, and make everyday tasks more efficient.<br><br>🌐 **Web & Product Development**<br>Building responsive, interactive web experiences and turning ideas into functional digital products.<br><br>🎨 **UI/UX & Creative Design**<br>Interested in clean interfaces, user experience, visual storytelling, prototyping, and the details that make products feel intuitive.<br><br><br><br><br>🛠️ My Playground<br><br>`Python` · `Java` · `JavaScript` · `SQL` · `HTML/CSS` · `React` · `Machine Learning` · `Generative AI` · `Git/GitHub` · `Figma` · `Canva`<br><br><br><br><br>✦ The Goal<br><br>**Imagine → Design → Build → Automate → Evolve**<br><br>Turning ideas into meaningful digital experiences by bringing together **intelligence, automation, development, and thoughtful design**.<br>
+## ✦ About Me<br><br>👋 Hey, I'm Sattwata.<br><br>A Computer Science professional fascinated by what happens when **AI, automation, code, and design come together**.<br><br><br>✦ Areas I'm Exploring :<br><br>🤖 **AI & Intelligent Systems**<br>Exploring Generative AI, Machine Learning, AI agents, and practical AI-powered applications.<br><br>⚡ **Automation & AI Workflows**<br>Creating intelligent workflows that automate repetitive processes, connect tools, and make everyday tasks more efficient.<br><br>🌐 **Web & Product Development**<br>Building responsive, interactive web experiences and turning ideas into functional digital products.<br><br>🎨 **UI/UX & Creative Design**<br>Interested in clean interfaces, user experience, visual storytelling, prototyping, and the details that make products feel intuitive.<br><br>🪙 **Web3 & Blockchain**<br>Exploring decentralized technologies, blockchain ecosystems, smart contracts, and the potential of Web3 to reshape digital products and online experiences.<br><br><br>✦ The Goal : **Imagine → Design → Build → Automate → Evolve**<br><br><br><br>
 
 
 ## 🌐 Socials:
@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sattwatamukherjee&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
----
-[![](https://komarev.com/ghpvc/?username=sattwatamukherjee&icon=7&color=0)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
